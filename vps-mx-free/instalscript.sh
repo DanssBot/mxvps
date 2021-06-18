@@ -58,4 +58,6 @@ if [ ! -d "$INSTALL_DIR" ]; then
 	sleep 2
 cd $WORKING_DIR_ORIGINAL
 vpsmxup
-sleep 2
+else
+	echo ""
+fi
