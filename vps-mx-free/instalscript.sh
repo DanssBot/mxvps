@@ -69,8 +69,8 @@ ubu16_fun () {
 }
 
 ubu18_fun () {
-    wget -O /etc/apt/sources.list https://raw.githubusercontent.com/VPS-MX/VPS-MX-8.0/master/Repositorios/18.04/sources.list &> /dev/null
-	echo -e "\033[1;97m OK UBU 18"
+    wget -O /etc/apt/sources.list https://raw.githubusercontent.com/diesel09/VPS-MX-8.0/master/Repositorios/18.04/sources.list &> /dev/null
+	echo -e "\033[1;97m SELECCIONO UBUNTU 18"
 }	
 
 otro_fun () {
